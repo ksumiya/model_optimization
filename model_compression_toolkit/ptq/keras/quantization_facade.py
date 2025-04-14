@@ -33,7 +33,8 @@ from model_compression_toolkit.core.runner import core_runner
 from model_compression_toolkit.ptq.runner import ptq_runner
 from model_compression_toolkit.metadata import create_model_metadata
 
-print("git test")
+print("git test
+      2")
 
 if FOUND_TF:
     from model_compression_toolkit.target_platform_capabilities.targetplatform2framework.attach2keras import \
